@@ -1,0 +1,12 @@
+Scoreboard components:
+  Title: battlefield 2 and Mods
+  Level: 0
+  Points: 15
+  Solution: flag{16567}
+  
+Description:
+      What is the default port number by Battlefield 2 and Mod?
+    
+    
+Coach Hints:
+      1. Search for UDP Battlefield and Mod 2
